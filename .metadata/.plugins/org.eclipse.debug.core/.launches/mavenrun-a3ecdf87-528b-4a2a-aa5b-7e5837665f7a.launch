@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.m2e.Maven2LaunchConfigurationType">
+    <booleanAttribute key="M2_BATCH" value="false"/>
+    <stringAttribute key="M2_GOALS" value="-U archetype:generate"/>
+    <listAttribute key="M2_PROPERTIES">
+        <listEntry value="archetypeVersion=5.5.0.5"/>
+        <listEntry value="package=menu.menu"/>
+        <listEntry value="archetypeGroupId=com.attivio.platform.archetypes"/>
+        <listEntry value="archetypeArtifactId=attivio-archetype-client"/>
+        <listEntry value="groupId=menu"/>
+        <listEntry value="artifactId=menu"/>
+        <listEntry value="outputDirectory=C:\Users\Admin\eclipse-workspace"/>
+        <listEntry value="hadoop=no"/>
+        <listEntry value="version=0.0.1-SNAPSHOT"/>
+    </listAttribute>
+    <booleanAttribute key="M2_SAVE_BEFORE_LAUNCH" value="false"/>
+    <booleanAttribute key="org.eclipse.debug.ui.private" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="C:\Users\Admin\eclipse-workspace"/>
+</launchConfiguration>
